@@ -1,7 +1,9 @@
 ### Hi My name is Paulo, welcome!✌️🪶.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=paulohenriiquesouza&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=paulohenriiquesouza&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paulohenriiquesouza&show_icons=true&count_private=true&hide_border=true&title_color=#f1f6ce&icon_color=38F5B0&text_color=#f1f6ce&bg_color=0d1117" alt="Paulo Henrique" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriiquesouza&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 ### Tecnologias que uso no meu dia a dia🖥️.
 
